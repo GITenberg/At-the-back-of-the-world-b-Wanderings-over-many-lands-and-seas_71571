@@ -1,0 +1,27 @@
+_repo: At-the-back-of-the-world-b-Wanderings-over-many-lands-and-seas_71571
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pugh, George
+    gutenberg_agent_id: '56284'
+    url: http://www.gutenberg.org/2009/agents/56284
+  - agent_name: Pugh, Jennie
+    gutenberg_agent_id: '56285'
+    url: http://www.gutenberg.org/2009/agents/56285
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71571'
+language: en
+pgterms:marc905: 20230820023343pugh
+pgterms:marc906: '1913'
+pgterms:marc907: UK
+production_note: Gary Baker
+publication_note: '  $aUK :$bLynwood and Co., Ltd., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'At the back of the world : $b Wanderings over many lands and seas'
+url: http://www.gutenberg.org/ebooks/71571
